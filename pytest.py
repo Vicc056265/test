@@ -8,3 +8,4 @@ lista  = []
 for i in range(10):
 	lista.append(a+b)
 print("lista 10 tych samych wynikow", lista)
+print("Dopisalam linijke")
